@@ -1,10 +1,10 @@
 # Olá, eu sou a Maria Luiza!
-- Tenho 18 anos;
-- Moro em Xaxim-SC
-- Curso Sistemas de Informação na UNOESC-Chapecó (2º Semestre);
-- Estou aprendendo Python, HTML, CSS e C;
-- Não estou trabalhando no momento;
-- Gamer
+- Tenho 18 anos;😊♑
+- Moro em Xaxim-SC🏙
+- Curso Sistemas de Informação na UNOESC-Chapecó (2º Semestre);💻
+- Estou aprendendo Python, HTML, CSS e C;👩‍💻
+- Não estou trabalhando no momento;🙁
+- Gamer🎮
 <img height="40" width="150" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 
 ## Linguagens
