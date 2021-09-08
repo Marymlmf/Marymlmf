@@ -1,4 +1,4 @@
-# Olá, eu sou a Maria Luiza!
+# Olá! Eu sou a Maria Luiza 🖐
 - Tenho 18 anos;😊♑
 - Moro em Xaxim-SC🏙
 - Curso Sistemas de Informação na UNOESC-Chapecó (2º Semestre);💻
