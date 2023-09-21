@@ -1,8 +1,8 @@
 # Olá! Eu sou a Maria Luiza 🖐
-- Tenho 19 anos;😊♑
+- Tenho 20 anos;😊♑
 - Moro em Xaxim-SC;🏙
-- Curso Sistemas de Informação na UNOESC-Chapecó (4º Semestre);💻👩‍💻
-- Não estou trabalhando no momento;🙁
+- Curso Sistemas de Informação na UNOESC-Chapecó (6º Semestre);💻👩‍💻
+- Trabalho na Infogen em chapecó,
 - Gamer.🎮
 <img height="27" width="90" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 
